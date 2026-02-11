@@ -3,3 +3,4 @@ LEVEL 2 COMPLETE: I see my reflection
 LEVEL 3 COMPLETE: your answer here
 LEVEL 4 COMPLETE: your answer here
 LEVEL 5 COMPLETE: your answer here
+LEVEL 6 CHEST CODE: <paste-the-code-here>
