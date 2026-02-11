@@ -7,3 +7,4 @@ LEVEL 6 CHEST CODE: <paste-the-code-here>
 LEVEL 6 CHEST CODE: CODE-HERE
 LEVEL 7 COMPLETE: I see what changed
 LEVEL 8 PR LINK: https://github.com/aabrraddi-cmd/cpe411l-git-quest/pull/1
+Level 9 COMPLETE: resolved the conflict
